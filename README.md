@@ -3,4 +3,4 @@ A small, simple application to learn creation of GUIs in Python. The code presen
 
 The .exe folder should work immediately, no need for any other installs, however, for the pure .py file you need to install requirements.
 
-> note: for some reason .wav files are not supported and i'm not rewriting and converting anything. To download this just 
+> note: for some reason .wav files are not supported and i'm not rewriting and converting anything. To download this just press the green button with 'code' written on it and download it as a .ZIP. after downloading, unzip it and huraaay
